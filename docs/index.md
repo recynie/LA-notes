@@ -1,3 +1,4 @@
-# Linear Algebra Notes
+# Index
+### Linear Algebra Notes
 
-See [Contents](contents.md)
+See [Contents](contents.md). 

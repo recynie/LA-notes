@@ -1,8 +1,11 @@
-site_name: Linear Algebra Notes
+site_name: LA Notes
 theme:
   name: 'rtd-dropdown'
+
+
 nav:
-- Home: index.md
-- Documents:
+- Home:
+  - index: index.md
   - Contents: contents.md
+- Chapters:
   - SVD: chapters/SVD.md
